@@ -1,6 +1,5 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=rafael-bianchi alt=rafael-bianchi/></p>
  Connect with me here:<br />
- <br />
  <p>
     <a href="https://www.linkedin.com/in/rafaelbianchi/">
     <img src="https://img.shields.io/badge/rafael-bianchi-386938188?style=flat&logo=linkedin">
@@ -10,10 +9,13 @@
   </a>
 </p>
 
-Cheers!
 <p align="left">
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg alt=c-original width="50" height="50"/>
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg alt=python width="50" height="50"/>
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg alt=vs-code width="50" height="50"/></p>
+ <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg alt=c-original width="25" height="25"/>
+ <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg alt=python width="25" height="25"/>
+ <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg alt=vs-code width="25" height="25"/>
+ <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg alt=Django width="25" height="25"/>
+ <img src= https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg alt=Docker width="25" height="25"/>
+</p>
+ 
 
 [![Rafael's github stats](https://github-readme-stats.vercel.app/api?username=rafael-bianchi&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
