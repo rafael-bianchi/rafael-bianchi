@@ -13,7 +13,7 @@
 Cheers!
 <p align="left">
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg alt=c-original width="50" height="50"/>
- <img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg alt=python width="50" height="50"/>
+ <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg alt=python width="50" height="50"/>
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg alt=vs-code width="50" height="50"/></p>
 
 [![Rafael's github stats](https://github-readme-stats.vercel.app/api?username=rafael-bianchi&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
