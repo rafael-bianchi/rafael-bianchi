@@ -4,8 +4,8 @@
     <a href="https://www.linkedin.com/in/rafaelbianchi/">
     <img src="https://img.shields.io/badge/rafael-bianchi-386938188?style=flat&logo=linkedin">
   </a> &nbsp; 
-  <a href="https://twitter.com/rafaellfontana">
-    <img src="https://img.shields.io/badge/@rafaellfontana-30302f?style=flat&logo=twitter">
+  <a href="https://twitter.com/rfmbianchi">
+    <img src="https://img.shields.io/badge/@rfmbianchi-30302f?style=flat&logo=twitter">
   </a>
 </p>
 
