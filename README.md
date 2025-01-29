@@ -17,5 +17,3 @@
  <img src= https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg alt=Docker width="25" height="25"/>
 </p>
  
-
-[![Rafael's github stats](https://github-readme-stats.vercel.app/api?username=rafael-bianchi&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
